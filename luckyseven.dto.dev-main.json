@@ -1,0 +1,14 @@
+{
+  "manifests": {
+    "luckyseven/dto": {
+      "manifest": {
+        "bundles": {
+          "Luckyseven\\Bundle\\LuckysevenDtoBundle\\LuckysevenDtoBundle": [
+            "all"
+          ]
+        },
+      },
+      "ref": "5b2157bcd13454fds5765e42f552ad36529a07a7"
+    }
+  }
+}
